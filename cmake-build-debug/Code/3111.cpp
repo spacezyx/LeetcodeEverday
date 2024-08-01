@@ -5,6 +5,8 @@
 using namespace std;
 
 int minRectanglesToCoverPoints(vector<vector<int>>& points, int w) {
+    // 思路：和y坐标没关系，只和x坐标有关系
+    // 先对x坐标排序，再找出需要多少个矩形覆盖即可
         int size = points.size();
         vector<int> xpoints;
         if (size == 0) {
