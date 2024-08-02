@@ -10,3 +10,4 @@
 
 （20240801）[LCP 40. 心算挑战 - 力扣（LeetCode）](https://leetcode.cn/problems/uOAnQW/description/)
 
+（20240802）[3128. 直角三角形 - 力扣（LeetCode）](https://leetcode.cn/problems/right-triangles/description/)
