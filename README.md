@@ -13,3 +13,9 @@
 （20240802）[3128. 直角三角形 - 力扣（LeetCode）](https://leetcode.cn/problems/right-triangles/description/)
 
 （20240803）[3143. 正方形中的最多点数 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-points-inside-the-square/description/)
+
+（20240803-双周赛）[100381. 求出胜利玩家的数目 - 力扣（LeetCode）](https://leetcode.cn/problems/find-the-number-of-winning-players/description/)
+
+（20240803-双周赛）[100387. 最少翻转次数使二进制矩阵回文 I - 力扣（LeetCode）](https://leetcode.cn/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/)
+
+（20240803-双周赛）[100385. 最少翻转次数使二进制矩阵回文 II - 力扣（LeetCode）](https://leetcode.cn/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/description/)
