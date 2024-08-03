@@ -30,7 +30,7 @@ int maxPointsInsideSquare(vector<vector<int>>& points, string s) {
     // 官解是定义正方形的半径为边长的一半 max(∣x∣,∣y∣)
     // 对于每个字符，计算字符到原点的最小的半径，并维护所有字符的次小半径
     // 根据题意，半径小于次小半径的正方形，是合法正方形。
-    //最后遍历所有字符的最小距离，返回在合法正方形内的个数。
+    // 最后遍历所有字符的最小距离，返回在合法正方形内的个数。
     map<char, vector<vector<int>>> myMap;
     int size = points.size();
     if(points.empty()) return 0;
