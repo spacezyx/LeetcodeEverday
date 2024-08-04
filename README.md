@@ -18,4 +18,6 @@
 
 （20240803-双周赛）[100387. 最少翻转次数使二进制矩阵回文 I - 力扣（LeetCode）](https://leetcode.cn/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/)
 
-（20240803-双周赛）[100385. 最少翻转次数使二进制矩阵回文 II - 力扣（LeetCode）](https://leetcode.cn/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/description/)
+[100385. 最少翻转次数使二进制矩阵回文 II - 力扣（LeetCode）](https://leetcode.cn/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/description/)
+
+（20240804）[572. 另一棵树的子树 - 力扣（LeetCode）](https://leetcode.cn/problems/subtree-of-another-tree/description/)
