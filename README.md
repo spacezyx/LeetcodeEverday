@@ -27,3 +27,5 @@
 （20240806）[1295. 统计位数为偶数的数字 - 力扣（LeetCode）](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/description/)
 
 （20240807）[169. 多数元素 - 力扣（LeetCode）](https://leetcode.cn/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150)
+
+（20240808）[3131. 找出与数组相加的整数 I - 力扣（LeetCode）](https://leetcode.cn/problems/find-the-integer-added-to-array-i/)
