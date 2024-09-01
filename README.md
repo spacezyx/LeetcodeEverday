@@ -30,7 +30,7 @@
 
 （20240808）[3131. 找出与数组相加的整数 I - 力扣（LeetCode）](https://leetcode.cn/problems/find-the-integer-added-to-array-i/)
 
-（202408011）[88. 合并两个有序数组 - 力扣（LeetCode）](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
+（20240811）[88. 合并两个有序数组 - 力扣（LeetCode）](https://leetcode.cn/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
 
 [27. 移除元素 - 力扣（LeetCode）](https://leetcode.cn/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150)
 
@@ -39,3 +39,6 @@
 [205. 同构字符串 - 力扣（LeetCode）](https://leetcode.cn/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150)
 
 [290. 单词规律 - 力扣（LeetCode）](https://leetcode.cn/problems/word-pattern/description/?envType=study-plan-v2&envId=top-interview-150)
+
+（20240901）[1450. 在既定时间做作业的学生人数 - 力扣（LeetCode）](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/description/)
+
