@@ -42,3 +42,4 @@
 
 （20240901）[1450. 在既定时间做作业的学生人数 - 力扣（LeetCode）](https://leetcode.cn/problems/number-of-students-doing-homework-at-a-given-time/description/)
 
+（20240902）[2024. 考试的最大困扰度 - 力扣（LeetCode）](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/description/)
