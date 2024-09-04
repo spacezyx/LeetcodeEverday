@@ -45,3 +45,5 @@
 （20240902）[2024. 考试的最大困扰度 - 力扣（LeetCode）](https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/description/)
 
 （20240903）[2708. 一个小组的最大实力值 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-strength-of-a-group/description/)
+
+（20240904）[2860. 让所有学生保持开心的分组方法数 - 力扣（LeetCode）](https://leetcode.cn/problems/happy-students/description/)
