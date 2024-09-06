@@ -7,6 +7,7 @@
 using namespace std;
 
 string clearDigits(string s) {
+    // 思路：遍历，遇到字母添加，遇到数字踢掉一个字母
     int size = s.size();
     string res = "";
     vector<char> remains;

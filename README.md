@@ -50,3 +50,5 @@
 
 （20240905）[3174. 清除数字 - 力扣（LeetCode）](https://leetcode.cn/problems/clear-digits/description/)
 
+（20240906）[125. 验证回文串 - 力扣（LeetCode）](https://leetcode.cn/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150)
+
