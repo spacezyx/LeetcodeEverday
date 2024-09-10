@@ -55,3 +55,7 @@
 （20240907）[28. 找出字符串中第一个匹配项的下标 - 力扣（LeetCode）](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150)
 
 （20240908）[977. 有序数组的平方 - 力扣（LeetCode）](https://leetcode.cn/problems/squares-of-a-sorted-array/description/)
+
+（20240910）[392. 判断子序列 - 力扣（LeetCode）](https://leetcode.cn/problems/is-subsequence/description/)
+
+（20240911）[168. Excel表列名称 - 力扣（LeetCode）](https://leetcode.cn/problems/excel-sheet-column-title/description/)
