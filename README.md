@@ -56,6 +56,8 @@
 
 （20240908）[977. 有序数组的平方 - 力扣（LeetCode）](https://leetcode.cn/problems/squares-of-a-sorted-array/description/)
 
-（20240910）[392. 判断子序列 - 力扣（LeetCode）](https://leetcode.cn/problems/is-subsequence/description/)
+（20240909）[392. 判断子序列 - 力扣（LeetCode）](https://leetcode.cn/problems/is-subsequence/description/)
 
-（20240911）[168. Excel表列名称 - 力扣（LeetCode）](https://leetcode.cn/problems/excel-sheet-column-title/description/)
+（20240910）[168. Excel表列名称 - 力扣（LeetCode）](https://leetcode.cn/problems/excel-sheet-column-title/description/)
+
+（20240911）[142. 环形链表 II - 力扣（LeetCode）](https://leetcode.cn/problems/linked-list-cycle-ii/description/?envType=study-plan-v2&envId=top-100-liked)
