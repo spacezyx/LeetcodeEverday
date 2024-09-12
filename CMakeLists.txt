@@ -31,4 +31,5 @@ add_executable(LeetcodeEverday main.cpp
         cmake-build-debug/Code/Interview392.cpp
         cmake-build-debug/Code/168.cpp
         cmake-build-debug/Code/Hot142.cpp
+        cmake-build-debug/Code/Hot78.cpp
 )
