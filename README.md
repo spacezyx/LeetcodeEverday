@@ -10,8 +10,6 @@
 <summary>2024.07</summary>
 -<a href="https://leetcode.cn/problems/minimum-rectangles-to-cover-points/description/" title="3111. 覆盖所有点的最少矩形数目 - 力扣（LeetCode）">3111. 覆盖所有点的最少矩形数目 - 力扣（LeetCode）</a>
 </details>
-
-
 <details>
 <summary>2024.08</summary>
 - <a href="https://leetcode.cn/problems/uOAnQW/description/" title="LCP 40. 心算挑战 - 力扣（LeetCode）">LCP 40. 心算挑战 - 力扣（LeetCode）</a><br>
@@ -56,3 +54,6 @@
 （20240911）[142. 环形链表 II - 力扣（LeetCode）](https://leetcode.cn/problems/linked-list-cycle-ii/description/?envType=study-plan-v2&envId=top-100-liked)
 
 （20240912）[78. 子集 - 力扣（LeetCode）](https://leetcode.cn/problems/subsets/submissions/564165017/?envType=study-plan-v2&envId=top-100-liked)
+
+（20240923）[1014. 最佳观光组合 - 力扣（LeetCode）](https://leetcode.cn/problems/best-sightseeing-pair/)
+
